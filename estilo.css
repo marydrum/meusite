@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 50%;
+    height: 500px;
+}
+
+.azul{
+    color: #blue;
+}
+
+.centro{
+    text-align: center;
+}
+
+h1, h2{
+    font-family: 'Baloo Chettan', cursive;
+}
